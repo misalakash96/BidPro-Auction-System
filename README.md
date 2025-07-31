@@ -14,9 +14,9 @@ A full-featured online auction system for managing users, products, bidding, inv
 - Admin Dashboard
 
 ## Tech Stack
-- Backend: Java Spring Boot / Node.js + Express
-- Frontend: React.js / Thymeleaf / JSP
-- Database: MySQL / MongoDB
+- Backend: Java Spring Boot
+- Frontend: React.js
+- Database: MySQL
 
 ## Features
 - Real-time Bidding
